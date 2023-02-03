@@ -10,7 +10,9 @@ Um OnePage é um resumo muito simples e direto ao ponto, usado pela equipe de ge
 
 ##### Exemplo de OnePage:
 
-![](C:\Users\igorp\AppData\Roaming\marktext\images\2023-02-03-16-17-22-image.png)
+```
+![Alt text](C:\Users\igorp\Desktop\VSCode\Projetos\Projeto - Automações de Processos\process-automation\onepageexample.png?raw=true)
+```
 
 ##### Indicadores Utilizados:
 
@@ -19,7 +21,3 @@ Um OnePage é um resumo muito simples e direto ao ponto, usado pela equipe de ge
 - Diversidade de Produtos
 
 - Ticket Médio por Venda
-
-
-
-
