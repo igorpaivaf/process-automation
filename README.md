@@ -10,7 +10,7 @@ Um OnePage é um resumo muito simples e direto ao ponto, usado pela equipe de ge
 
 ##### Exemplo de OnePage:
 
-![onepageexample](https://user-images.githubusercontent.com/109686508/216699754-4bc3ed5d-f5be-4d3a-bbc3-0a29d4e946c7.png)
+![](![onepageexample](https://user-images.githubusercontent.com/109686508/216701084-40bb38b6-1a6d-4481-9af7-314487cc5a2f.png))
 
 ##### Indicadores Utilizados:
 
