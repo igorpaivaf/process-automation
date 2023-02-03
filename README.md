@@ -10,9 +10,7 @@ Um OnePage é um resumo muito simples e direto ao ponto, usado pela equipe de ge
 
 ##### Exemplo de OnePage:
 
-```
-![Alt text](process-automation\README Images\onepageexample.png?raw=true)
-```
+![Alt text](README Images\onepageexample.png?raw=true)
 
 ##### Indicadores Utilizados:
 
